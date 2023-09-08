@@ -8,7 +8,11 @@
 - Sampling
 - Statistical inference
 - Statistical hypothesis testing
-- project 1
+- Project 1: Analysis of the nhanes dataset
+- Project 2: Analysis of the Cartwheel dataset
+- Project 3: Statistics Theory Assessment
+- Project 4: Hypothesis Testing for a golf ball manufacturer
+- Final project: Analysis of the Google Play Store
 
 ## Week 2: Machine Learning
 - Data pre-processing
