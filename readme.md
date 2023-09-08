@@ -1,4 +1,4 @@
-## Data science Bootcamp (Neshan Map Company), Summer 2023
+## Data Science Bootcamp (Neshan Map Company), Summer 2023
 
 
 
