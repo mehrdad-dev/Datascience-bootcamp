@@ -22,7 +22,7 @@
 - Evaluation of Machine Learning models
 - Neural Networks
 - Project 1: Classification of stars + documentation
-- Project 2: clustering of bikes + documentation
+- Project 2: Clustering of bikes + documentation
 
 ## Week 3: Time Series
 - Introduction to time series
