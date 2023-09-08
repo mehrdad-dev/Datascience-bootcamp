@@ -37,3 +37,7 @@
 - Evaluation of language models
 - Information retrieval methods
 - Learning to rank algorithms
+
+
+## Final Words
+When I look back to these four challenging weeks, I found out that I really enjoyed it.  I will really miss the people, the atmosphere of the company, and all our laughing. Goodbye, folks.
