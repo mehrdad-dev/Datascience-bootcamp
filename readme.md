@@ -16,19 +16,19 @@
 - Unsupervised Machine Learning Algorithms
 - Evaluation of Machine Learning models
 - Neural Networks
-- project 1: classification of stars
-- project 2: clustring of bikes
+- Project 1: Classification of stars
+- Project 2: clustering of bikes
 
 ## Week 3: Time Series
 - Introduction to time series
 - Time series features
-- Forcasting methods
-- introduction to sktime library
-- project: forcasting of sales for Walmart company 
+- Forecasting methods
+- Introduction to the sktime library
+- Project: forecasting of sales for Walmart company 
 
 ## Week 4: NLP
 - Pre-processing of text
-- Intorduction to language models
+- Introduction to language models
 - Evaluation of language models
-- Information retrival methods
+- Information retrieval methods
 - Learning to rank algorithms
