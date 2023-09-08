@@ -21,15 +21,15 @@
 - Unsupervised Machine Learning Algorithms
 - Evaluation of Machine Learning models
 - Neural Networks
-- Project 1: Classification of stars
-- Project 2: clustering of bikes
+- Project 1: Classification of stars + documentation
+- Project 2: clustering of bikes + documentation
 
 ## Week 3: Time Series
 - Introduction to time series
 - Time series features
 - Forecasting methods
 - Introduction to the sktime library
-- Project: forecasting of sales for Walmart company 
+- Project: forecasting of sales for Walmart company (From EDA to forecasting + documentation)
 
 ## Week 4: NLP
 - Pre-processing of text
