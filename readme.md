@@ -5,6 +5,7 @@
 ## Week 1: Statistics
 
 - Data visualization
+- Basics of statistics
 - Sampling
 - Statistical inference
 - Statistical hypothesis testing
