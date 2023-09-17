@@ -22,7 +22,7 @@
 - Evaluation of Machine Learning models
 - Neural Networks
 - Project 1: Classification of stars + documentation
-- Project 2: Clustering of bikes + documentation
+- Project 2: clustering of bikes + documentation
 
 ## Week 3: Time Series
 - Introduction to time series
@@ -35,8 +35,10 @@
 - Pre-processing of text
 - Introduction to language models
 - Evaluation of language models
+- Modern language models
 - Information retrieval methods
 - Learning to rank algorithms
+- Persian news classification using n-gram and BERT models
 
 
 ## Final Words
