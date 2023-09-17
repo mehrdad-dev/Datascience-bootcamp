@@ -10,26 +10,26 @@
 - Statistical inference
 - Statistical hypothesis testing
 - Project 1: Analysis of the nhanes dataset
-- Project 2: Analysis of the Cartwheel dataset
-- Project 3: Statistics Theory Assessment
-- Project 4: Hypothesis Testing for a golf ball manufacturer
+- Project 2: Analysis of the cartwheel dataset
+- Project 3: Statistics theory assessment
+- Project 4: Hypothesis testing for a golf ball manufacturer
 - Final project: Analysis of the Google Play Store
 
 ## Week 2: Machine Learning
 - Data pre-processing
-- Supervised Machine Learning Algorithms
-- Unsupervised Machine Learning Algorithms
-- Evaluation of Machine Learning models
-- Neural Networks
+- Supervised machine learning Algorithms
+- Unsupervised machine learning Algorithms
+- Evaluation of machine learning models
+- Neural networks
 - Project 1: Classification of stars + documentation
-- Project 2: clustering of bikes + documentation
+- Project 2: Clustering of bikes + documentation
 
 ## Week 3: Time Series
 - Introduction to time series
 - Time series features
 - Forecasting methods
 - Introduction to the sktime library
-- Project: forecasting of sales for Walmart company (From EDA to forecasting + documentation)
+- Project: Forecasting of sales for Walmart company (From EDA to forecasting + documentation)
 
 ## Week 4: NLP
 - Pre-processing of text
