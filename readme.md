@@ -38,7 +38,7 @@
 - Modern language models
 - Information retrieval methods
 - Learning to rank algorithms
-- Persian news classification using n-gram and BERT models
+- Project: Persian news classification using n-gram and BERT models
 
 
 ## Final Words
